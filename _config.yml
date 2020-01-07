@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 啊咧咧
+title: 观景小屋
 email: culmencasa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   一枚沙雕OTAKU的日常
@@ -54,6 +54,15 @@ plugins:
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
+# Author Settings
+author: ignatius # add your name
+author-img: air.jpg # add your photo
+about-author: When you have sth to say, don't be afraid to say it. # add description
+social-twitter: culmencasa # add your Twitter handle
+social-facebook: culmencasa  # add your Facebook handle
+social-github: culmencasa # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: culmencasa@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: culmencasa # add your discus identifier
@@ -70,3 +79,4 @@ plugins:
 
 paginate: 8
 paginate_path: "/page/:num"
+
