@@ -22,7 +22,7 @@ RDP Wrapper显示的版本号则是**10.0.18362.836**,
 
 - 可以直接[下载INI](https://raw.githubusercontent.com/affinityv/INI-RDPWRAP/master/rdpwrap.ini)
 - 或者百度网盘：
-https://pan.baidu.com/s/1W5e-vqvdMin9ubX4-AnIlw 
+[链接地址](https://pan.baidu.com/s/1W5e-vqvdMin9ubX4-AnIlw) 
 提取码：099f 
 
 
