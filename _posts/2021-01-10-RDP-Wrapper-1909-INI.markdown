@@ -27,3 +27,11 @@ tags: [windows,system]
 
 
 替换C:\Program Files\RDP Wrapper下的rdpwrap.ini，再运行RDPConf.exe可以是看到fully supported了。
+
+
+--------------------------
+2021-01-20 【更新】
+淦！没用多久，Windows就更新了。
+现在是10.0.19041.746，早知道应该直接备份旧版的termsrv.dll。
+现在又得去找INI
+
